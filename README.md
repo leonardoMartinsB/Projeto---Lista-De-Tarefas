@@ -18,7 +18,7 @@ O **Lista de Tarefas** é um projeto simples e funcional desenvolvido em **HTML,
 
 Foi meu **primeiro projeto prático (2023)**, criado para aplicar conceitos de desenvolvimento web e manipulação do DOM.
 
-👉 [Acesse o projeto online aqui](https://leonardomartinsb.github.io/Projeto---Lista-De-Tarefas/)
+👉 [Acesse o projeto online aqui](https://leonardomartinsb.github.io/Projeto-Lista-de-Tarefas-2023/)
 
 ---
 
@@ -83,7 +83,3 @@ Você pode usá-lo livremente, modificar e distribuir.
 
 Feito com dedicação por **Leonardo Martins** 🚀
 📎 [GitHub](https://github.com/leonardoMartinsB)
-
----
-
-👉 Quer que eu já te prepare esse README.md com a imagem de **preview** (tipo a segunda que você me mandou) ajustada pra ficar no repositório, ou prefere só o texto bruto pra você colar direto?
